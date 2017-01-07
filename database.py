@@ -1,0 +1,32 @@
+#!/usr/local/bin/python3.4
+class aas():
+	name=''
+	one=''
+	three=''
+	rj=0
+	def __init__(it,n,o,t,r):
+		it.name=n
+		it.one=o
+		it.three=t
+		it.rj=r
+aa=[1,2,3,4,5,6,7,8,9,0,1,2,3,4,5,6,7,8,9,0]
+aa[0]=aas('甘氨酸','G','gly',0)
+aa[1]=aas('丙氨酸','A','ala',1)
+aa[2]=aas('缬氨酸','V','val',2)
+aa[3]=aas('亮氨酸','L','leu',3)
+aa[4]=aas('异亮氨酸','I','ile',4)
+aa[5]=aas('丝氨酸','S','ser',5)
+aa[6]=aas('苏氨酸','T','thr',6)
+aa[7]=aas('半胱氨酸','C','cys',7)
+aa[8]=aas('甲硫氨酸','M','met',8)
+aa[9]=aas('天冬氨酸','D','asp',9)
+aa[10]=aas('谷氨酸','E','glu',10)
+aa[11]=aas('天冬酰胺','N','asn',11)
+aa[12]=aas('谷氨酰胺','Q','gln',12)
+aa[13]=aas('赖氨酸','K','lys',13)
+aa[14]=aas('精氨酸','R','arg',14)
+aa[15]=aas('组氨酸','H','his',15)
+aa[16]=aas('脯氨酸','P','pro',16)
+aa[17]=aas('苯丙氨酸','F','phe',17)
+aa[18]=aas('酪氨酸','Y','tyr',18)
+aa[19]=aas('色氨酸','W','trp',19)
