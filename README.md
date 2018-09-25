@@ -3,4 +3,4 @@
 #
 #
 #
-Nothing else. 如果你还问什么我只能说一句无可奉告，
+Nothing else. This script is very old and in Chinese version. I will re-complile it when I have time.
