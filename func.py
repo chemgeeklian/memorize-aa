@@ -18,7 +18,7 @@ def b():
 		print("你的成绩是%d分,要再来一次吗,要请输入y,不要请输入别的"% gra)
 		wh=input()
 		if wh=='y':
-			print("哦.\n")
+			print("OKay..\n")
 			gra=0
 			chc=random.shuffle(chn)
 		else:break
@@ -40,7 +40,7 @@ def c():
 		print("你的成绩是%d分,要再来一次吗,要请输入y,不要请输入别的"% gra)
 		wh=input()
 		if wh=='y':
-			print("哦.\n")
+			print("OKay..\n")
 			gra=0
 			chc=random.shuffle(chn)
 		else:break
@@ -58,7 +58,7 @@ def d():
 		print("你的成绩是%d分,要再来一次吗,要请输入y,不要请输入别的"% gra)
 		wh=input()
 		if wh=='y':
-			print("哦.\n")
+			print("OKay..\n")
 			gra=0
 			chc=random.shuffle(chn)
 		else:break
@@ -77,7 +77,7 @@ def e():
 		print("你的成绩是%d分,要再来一次吗,要请输入y,不要请输入别的"% gra)
 		wh=input()
 		if wh=='y':
-			print("哦.\n")
+			print("OKay..\n")
 			gra=0
 			chc=random.shuffle(chn)
 		else:break
